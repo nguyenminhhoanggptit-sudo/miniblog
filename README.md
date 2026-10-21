@@ -26,3 +26,12 @@ Tài khoản đăng nhập: `admin` / `123456`
 npm run build
 npm run preview
 ```
+
+Thông tin sinh viên
+Họ và tên: Nguyễn Minh Hoàng
+
+    Mã sinh viên: B25DCCC072
+
+    Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
+
+    Chuyên ngành: Công nghệ thông tin (Định hướng ứng dụng)

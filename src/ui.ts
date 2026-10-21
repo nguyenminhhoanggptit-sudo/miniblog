@@ -1,4 +1,3 @@
-// Các lớp Tailwind dùng chung cho giao diện "Biển cả"
 export const card =
   "rounded-3xl bg-white shadow-lg shadow-sky-200/50 ring-1 ring-sky-100";
 export const btn =
